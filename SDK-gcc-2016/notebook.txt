@@ -1,0 +1,387 @@
+cd ~/Desktop/SDK-gcc-1.0/future_net
+cd ~/Desktop/SDK-gcc-1.1/future_net
+cd ~/Desktop/SDK-gcc-rel/future_net
+cd ~/Desktop/SDK-gcc-rel-1.0/future_net
+cd ~/Desktop/SDK-gcc-rel-2.0/future_net
+cd ~/Desktop/SDK-gcc-5.0/future_net
+
+cd ~/Desktop/kaifa/SDK-gcc-5.0/future_net
+cd ~/Desktop/kaifa/SDK-gcc-rel/future_net
+cd ~/Desktop/backup/SDK-gcc-rel-2.0/future_net
+
+cd ~/Desktop/backup/SDK-gcc-release/SDK-gcc-rel-2.0/future_net
+
+cd ~/Desktop/test-case
+./bin/future_net ../test-case/case0/topo.csv ../test-case/case0/demand.csv ../test-case/case0/result.csv *
+./bin/future_net ../test-case/case1/topo.csv ../test-case/case1/demand.csv ../test-case/case1/result.csv
+./bin/future_net ../test-case/case2/topo.csv ../test-case/case2/demand.csv ../test-case/case2/result.csv
+./bin/future_net ../test-case/case3/topo.csv ../test-case/case3/demand.csv ../test-case/case3/result.csv
+./bin/future_net ../test-case/case4/topo.csv ../test-case/case4/demand.csv ../test-case/case4/result.csv
+./bin/future_net ../test-case/case5/topo.csv ../test-case/case5/demand.csv ../test-case/case5/result.csv
+./bin/future_net ../test-case/case6/topo.csv ../test-case/case6/demand.csv ../test-case/case6/result.csv
+./bin/future_net ../test-case/case7/topo.csv ../test-case/case7/demand.csv ../test-case/case7/result.csv
+./bin/future_net ../test-case/case8/topo.csv ../test-case/case8/demand.csv ../test-case/case8/result.csv
+./bin/future_net ../test-case/case9/topo.csv ../test-case/case9/demand.csv ../test-case/case9/result.csv
+./bin/future_net ../test-case/case10/topo.csv ../test-case/case10/demand.csv ../test-case/case10/result.csv
+
+
+./bin/future_net ../test-case/case15/topo.csv ../test-case/case15/demand.csv ../test-case/case15/result.csv *
+./bin/future_net ../test-case/case21/topo.csv ../test-case/case21/demand.csv ../test-case/case21/result.csv *
+./bin/future_net ../test-case/case22/topo.csv ../test-case/case22/demand.csv ../test-case/case22/result.csv
+./bin/future_net ../test-case/case27/topo.csv ../test-case/case27/demand.csv ../test-case/case27/result.csv *
+./bin/future_net ../test-case/case29/topo.csv ../test-case/case29/demand.csv ../test-case/case29/result.csv *
+
+./bin/future_net ../case/case10-3/case0/topo.csv ../case/case10-3/case0/demand.csv ../case/case10-3/case0/result.csv
+./bin/future_net ../case/case10-3/case1/topo.csv ../case/case10-3/case1/demand.csv ../case/case10-3/case1/result.csv
+./bin/future_net ../case/case10-3/case2/topo.csv ../case/case10-3/case2/demand.csv ../case/case10-3/case2/result.csv
+./bin/future_net ../case/case10-3/case3/topo.csv ../case/case10-3/case3/demand.csv ../case/case10-3/case3/result.csv
+./bin/future_net ../case/case10-3/case4/topo.csv ../case/case10-3/case4/demand.csv ../case/case10-3/case4/result.csv
+./bin/future_net ../case/case10-3/case5/topo.csv ../case/case10-3/case5/demand.csv ../case/case10-3/case5/result.csv
+./bin/future_net ../case/case10-3/case6/topo.csv ../case/case10-3/case6/demand.csv ../case/case10-3/case6/result.csv
+./bin/future_net ../case/case10-3/case7/topo.csv ../case/case10-3/case7/demand.csv ../case/case10-3/case7/result.csv
+./bin/future_net ../case/case10-3/case8/topo.csv ../case/case10-3/case8/demand.csv ../case/case10-3/case8/result.csv
+./bin/future_net ../case/case10-3/case9/topo.csv ../case/case10-3/case9/demand.csv ../case/case10-3/case9/result.csv
+
+./bin/future_net ../case/case20-5/case0/topo.csv ../case/case20-5/case0/demand.csv ../case/case20-5/case0/result.csv
+./bin/future_net ../case/case20-5/case1/topo.csv ../case/case20-5/case1/demand.csv ../case/case20-5/case1/result.csv
+./bin/future_net ../case/case20-5/case2/topo.csv ../case/case20-5/case2/demand.csv ../case/case20-5/case2/result.csv
+./bin/future_net ../case/case20-5/case3/topo.csv ../case/case20-5/case3/demand.csv ../case/case20-5/case3/result.csv
+./bin/future_net ../case/case20-5/case4/topo.csv ../case/case20-5/case4/demand.csv ../case/case20-5/case4/result.csv
+./bin/future_net ../case/case20-5/case5/topo.csv ../case/case20-5/case5/demand.csv ../case/case20-5/case5/result.csv
+./bin/future_net ../case/case20-5/case6/topo.csv ../case/case20-5/case6/demand.csv ../case/case20-5/case6/result.csv
+./bin/future_net ../case/case20-5/case7/topo.csv ../case/case20-5/case7/demand.csv ../case/case20-5/case7/result.csv
+./bin/future_net ../case/case20-5/case8/topo.csv ../case/case20-5/case8/demand.csv ../case/case20-5/case8/result.csv
+./bin/future_net ../case/case20-5/case9/topo.csv ../case/case20-5/case9/demand.csv ../case/case20-5/case9/result.csv
+
+./bin/future_net ../case/case20-8/case0/topo.csv ../case/case20-8/case0/demand.csv ../case/case20-8/case0/result.csv
+./bin/future_net ../case/case20-8/case1/topo.csv ../case/case20-8/case1/demand.csv ../case/case20-8/case1/result.csv
+./bin/future_net ../case/case20-8/case2/topo.csv ../case/case20-8/case2/demand.csv ../case/case20-8/case2/result.csv
+./bin/future_net ../case/case20-8/case3/topo.csv ../case/case20-8/case3/demand.csv ../case/case20-8/case3/result.csv
+./bin/future_net ../case/case20-8/case4/topo.csv ../case/case20-8/case4/demand.csv ../case/case20-8/case4/result.csv
+./bin/future_net ../case/case20-8/case5/topo.csv ../case/case20-8/case5/demand.csv ../case/case20-8/case5/result.csv
+./bin/future_net ../case/case20-8/case6/topo.csv ../case/case20-8/case6/demand.csv ../case/case20-8/case6/result.csv
+./bin/future_net ../case/case20-8/case7/topo.csv ../case/case20-8/case7/demand.csv ../case/case20-8/case7/result.csv
+./bin/future_net ../case/case20-8/case8/topo.csv ../case/case20-8/case8/demand.csv ../case/case20-8/case8/result.csv
+./bin/future_net ../case/case20-8/case9/topo.csv ../case/case20-8/case9/demand.csv ../case/case20-8/case9/result.csv
+
+./bin/future_net ../case/case30-8/case0/topo.csv ../case/case30-8/case0/demand.csv ../case/case30-8/case0/result.csv
+./bin/future_net ../case/case30-8/case1/topo.csv ../case/case30-8/case1/demand.csv ../case/case30-8/case1/result.csv
+./bin/future_net ../case/case30-8/case2/topo.csv ../case/case30-8/case2/demand.csv ../case/case30-8/case2/result.csv
+./bin/future_net ../case/case30-8/case3/topo.csv ../case/case30-8/case3/demand.csv ../case/case30-8/case3/result.csv
+./bin/future_net ../case/case30-8/case4/topo.csv ../case/case30-8/case4/demand.csv ../case/case30-8/case4/result.csv
+./bin/future_net ../case/case30-8/case5/topo.csv ../case/case30-8/case5/demand.csv ../case/case30-8/case5/result.csv
+./bin/future_net ../case/case30-8/case6/topo.csv ../case/case30-8/case6/demand.csv ../case/case30-8/case6/result.csv
+./bin/future_net ../case/case30-8/case7/topo.csv ../case/case30-8/case7/demand.csv ../case/case30-8/case7/result.csv
+./bin/future_net ../case/case30-8/case8/topo.csv ../case/case30-8/case8/demand.csv ../case/case30-8/case8/result.csv
+./bin/future_net ../case/case30-8/case9/topo.csv ../case/case30-8/case9/demand.csv ../case/case30-8/case9/result.csv
+
+./bin/future_net ../case/case560-46/case0/topo.csv ../case/case560-46/case0/demand.csv ../case/case560-46/case0/result.csv
+./bin/future_net ../case/case560-46/case1/topo.csv ../case/case560-46/case1/demand.csv ../case/case560-46/case1/result.csv
+./bin/future_net ../case/case560-46/case2/topo.csv ../case/case560-46/case2/demand.csv ../case/case560-46/case2/result.csv
+./bin/future_net ../case/case560-46/case3/topo.csv ../case/case560-46/case3/demand.csv ../case/case560-46/case3/result.csv
+./bin/future_net ../case/case560-46/case4/topo.csv ../case/case560-46/case4/demand.csv ../case/case560-46/case4/result.csv
+./bin/future_net ../case/case560-46/case5/topo.csv ../case/case560-46/case5/demand.csv ../case/case560-46/case5/result.csv
+./bin/future_net ../case/case560-46/case6/topo.csv ../case/case560-46/case6/demand.csv ../case/case560-46/case6/result.csv
+./bin/future_net ../case/case560-46/case7/topo.csv ../case/case560-46/case7/demand.csv ../case/case560-46/case7/result.csv
+./bin/future_net ../case/case560-46/case8/topo.csv ../case/case560-46/case8/demand.csv ../case/case560-46/case8/result.csv
+./bin/future_net ../case/case560-46/case9/topo.csv ../case/case560-46/case9/demand.csv ../case/case560-46/case9/result.csv
+
+./bin/future_net ../case/case580-48/case0/topo.csv ../case/case580-48/case0/demand.csv ../case/case580-48/case0/result.csv
+./bin/future_net ../case/case580-48/case1/topo.csv ../case/case580-48/case1/demand.csv ../case/case580-48/case1/result.csv
+./bin/future_net ../case/case580-48/case2/topo.csv ../case/case580-48/case2/demand.csv ../case/case580-48/case2/result.csv
+./bin/future_net ../case/case580-48/case3/topo.csv ../case/case580-48/case3/demand.csv ../case/case580-48/case3/result.csv
+./bin/future_net ../case/case580-48/case4/topo.csv ../case/case580-48/case4/demand.csv ../case/case580-48/case4/result.csv
+./bin/future_net ../case/case580-48/case5/topo.csv ../case/case580-48/case5/demand.csv ../case/case580-48/case5/result.csv
+./bin/future_net ../case/case580-48/case6/topo.csv ../case/case580-48/case6/demand.csv ../case/case580-48/case6/result.csv
+./bin/future_net ../case/case580-48/case7/topo.csv ../case/case580-48/case7/demand.csv ../case/case580-48/case7/result.csv
+./bin/future_net ../case/case580-48/case8/topo.csv ../case/case580-48/case8/demand.csv ../case/case580-48/case8/result.csv
+./bin/future_net ../case/case580-48/case9/topo.csv ../case/case580-48/case9/demand.csv ../case/case580-48/case9/result.csv
+
+./bin/future_net ../case/case600-48/case0/topo.csv ../case/case600-48/case0/demand.csv ../case/case600-48/case0/result.csv
+./bin/future_net ../case/case600-48/case1/topo.csv ../case/case600-48/case1/demand.csv ../case/case600-48/case1/result.csv
+./bin/future_net ../case/case600-48/case2/topo.csv ../case/case600-48/case2/demand.csv ../case/case600-48/case2/result.csv
+./bin/future_net ../case/case600-48/case3/topo.csv ../case/case600-48/case3/demand.csv ../case/case600-48/case3/result.csv
+./bin/future_net ../case/case600-48/case4/topo.csv ../case/case600-48/case4/demand.csv ../case/case600-48/case4/result.csv
+./bin/future_net ../case/case600-48/case5/topo.csv ../case/case600-48/case5/demand.csv ../case/case600-48/case5/result.csv
+./bin/future_net ../case/case600-48/case6/topo.csv ../case/case600-48/case6/demand.csv ../case/case600-48/case6/result.csv
+./bin/future_net ../case/case600-48/case7/topo.csv ../case/case600-48/case7/demand.csv ../case/case600-48/case7/result.csv
+./bin/future_net ../case/case600-48/case8/topo.csv ../case/case600-48/case8/demand.csv ../case/case600-48/case8/result.csv
+./bin/future_net ../case/case600-48/case9/topo.csv ../case/case600-48/case9/demand.csv ../case/case600-48/case9/result.csv
+
+./bin/future_net ../case/case600-50/case0/topo.csv ../case/case600-50/case0/demand.csv ../case/case600-50/case0/result.csv
+./bin/future_net ../case/case600-50/case1/topo.csv ../case/case600-50/case1/demand.csv ../case/case600-50/case1/result.csv
+./bin/future_net ../case/case600-50/case2/topo.csv ../case/case600-50/case2/demand.csv ../case/case600-50/case2/result.csv
+./bin/future_net ../case/case600-50/case3/topo.csv ../case/case600-50/case3/demand.csv ../case/case600-50/case3/result.csv
+./bin/future_net ../case/case600-50/case4/topo.csv ../case/case600-50/case4/demand.csv ../case/case600-50/case4/result.csv
+./bin/future_net ../case/case600-50/case5/topo.csv ../case/case600-50/case5/demand.csv ../case/case600-50/case5/result.csv
+./bin/future_net ../case/case600-50/case6/topo.csv ../case/case600-50/case6/demand.csv ../case/case600-50/case6/result.csv
+./bin/future_net ../case/case600-50/case7/topo.csv ../case/case600-50/case7/demand.csv ../case/case600-50/case7/result.csv
+./bin/future_net ../case/case600-50/case8/topo.csv ../case/case600-50/case8/demand.csv ../case/case600-50/case8/result.csv
+./bin/future_net ../case/case600-50/case9/topo.csv ../case/case600-50/case9/demand.csv ../case/case600-50/case9/result.csv
+
+./bin/future_net ../case/case400-30/case0/topo.csv ../case/case400-30/case0/demand.csv ../case/case400-30/case0/result.csv
+./bin/future_net ../case/case400-30/case1/topo.csv ../case/case400-30/case1/demand.csv ../case/case400-30/case1/result.csv
+./bin/future_net ../case/case400-30/case2/topo.csv ../case/case400-30/case2/demand.csv ../case/case400-30/case2/result.csv
+./bin/future_net ../case/case400-30/case3/topo.csv ../case/case400-30/case3/demand.csv ../case/case400-30/case3/result.csv
+./bin/future_net ../case/case400-30/case4/topo.csv ../case/case400-30/case4/demand.csv ../case/case400-30/case4/result.csv
+./bin/future_net ../case/case400-30/case5/topo.csv ../case/case400-30/case5/demand.csv ../case/case400-30/case5/result.csv
+./bin/future_net ../case/case400-30/case6/topo.csv ../case/case400-30/case6/demand.csv ../case/case400-30/case6/result.csv
+./bin/future_net ../case/case400-30/case7/topo.csv ../case/case400-30/case7/demand.csv ../case/case400-30/case7/result.csv
+./bin/future_net ../case/case400-30/case8/topo.csv ../case/case400-30/case8/demand.csv ../case/case400-30/case8/result.csv
+./bin/future_net ../case/case400-30/case9/topo.csv ../case/case400-30/case9/demand.csv ../case/case400-30/case9/result.csv
+
+
+
+
+
+
+//******************************Testing Start*********************************//
+    // 测试最终优化路径 (打印dijkstra最短路径的结果)
+    /*FILE *fp;
+    fp = fopen("result_baoling.csv","a");//将结果写入result.csv
+    fprintf(fp, "****************Start Here**************\n");
+    //fprintf(fp, "%s\n", topo_file);
+    fprintf(fp, "总节点数：\t%d\n", vlen);
+    fprintf(fp, "总节点数：\t%d\n", vlen);
+    fprintf(fp, "必经点数：\t%d\n", demandNum);
+    fprintf(fp, "总边数目：\t%d\n", edge_num);
+    fprintf(fp, "最终距离：\t%d\n", minEG);
+    fprintf(fp, "必经节点\n");
+    for(int i = 0; i < demandNum; ++i)
+    {
+        fprintf(fp, "%d\t", demand_v[i]);
+    }
+    fprintf(fp, "\n路径边\n");
+    for (int i = 0; i < resNumG; ++i)
+    {
+        fprintf(fp, "%d\t", resultG[i]);
+    }
+    fprintf(fp, "\n路径点\n");
+    for (int i = 0; i < resNumG; ++i)
+    {
+        fprintf(fp, "%d\t", gEdges[resultG[i]].start);
+    }
+    fprintf(fp, "%d\n", gEdges[resultG[resNumG - 1]].end);*/
+
+    /*/ 测试最终优化路径 (打印dijkstra最短路径的结果)
+    printf("\nTesting Finally Result Path\n");
+    printf("Number of Total Nodes: %d\n", vlen);
+    printf("Number of Demand Nodes: %d\n", demandNum);
+    printf("Number of Total Edges: %d\n", edge_num);
+    printf("\nDemand Vexs");
+    for(int i = 0; i < demandNum; ++i)
+    {
+        if (i % 15 == 0) printf("\n");
+        printf("%d  ", demand_v[i]);
+    }
+    printf("\n");
+    printf("shortest(%d, %d)=%d\n", sour, dest, minEG);
+    printf("\nEdges of Path");
+    for (int i = 0; i < resNumG; ++i)
+    {
+        if (i % 15 == 0) printf("\n");
+        printf("%3d  ", resultG[i]);
+    }
+    printf("\n\nNodes of Path");
+    for (int i = 0; i < resNumG; ++i)
+    {
+        if (i % 15 == 0) printf("\n");
+        printf("%3d  ", gEdges[resultG[i]].start);
+    }
+    printf("%3d", gEdges[resultG[resNumG - 1]].end);
+    printf("\n\n");*/
+//*******************************Testing End**********************************//
+
+//******************************Testing Start*********************************//
+    /*/ 测试topo数据
+    printf("\n***Listing Topo Original Data (Successful)***\n");
+    for(int i = 0; i < edge_num; ++i)
+    {        
+        printf("%d\t%d\t%d\t%d\n", gEData[i].eID, gEData[i].start, gEData[i].end, gEData[i].weight);
+    }
+
+    // 测试Vexs
+    printf("\n***Getting Vexs Data (Successful)***\n");
+    for(iv =0; iv < vlen; iv++)
+    {
+        printf("%d(%d)\t",get_position(*pG, gVexs[iv]), gVexs[iv]);
+    }
+    printf("\n");
+
+    // 测试必经顶点demand_v    
+    printf("\n***Getting Source and Destination (Successful)***\n");
+    printf("%d(%d)\t%d(%d)\n", get_position(*pG, sour), sour, get_position(*pG, dest), dest);
+    printf("\n***Listing Demand Vexs (Successful)***\n");
+    for(mv = 0; mv < demandNum; ++mv)
+    {
+        demand_v[mv] = atoi(aux_b[mv + 2]);
+        //printf("%d(%d)\t", get_position(*pG, demand_v[mv]), demand_v[mv]);
+    }
+    printf("\n");
+
+    print_lgraph(*pG);*/
+//*******************************Testing End**********************************//
+
+
+
+
+
+
+
+
+
+
+
+//读取文件并按行输出到buff。
+//buff为一个指针数组，每一个元素是一个字符指针，对应文件中一行的内容。
+//spec为允许解析的最大行数。
+extern int read_file(char ** const buff, const unsigned int spec, const char * const filename);
+
+//将result缓冲区中的内容写入文件，写入方式为覆盖写入
+extern void write_result(const char * const filename);
+
+//释放读文件的缓冲区
+extern void release_buff(char ** const buff, const int valid_item_num);
+
+//将结果记录到result缓冲区
+extern void record_result(const unsigned short edge);
+
+//打印时间。入参为打印信息头
+void print_time(const char * const head);
+
+void search_route(char *graph[5000], int edge_num, char *condition);
+
+void print_time(const char *head)
+int read_file(char ** const buff, const unsigned int spec, const char * const filename)
+void record_result(unsigned short edge)
+void write_result(const char * const filename)
+static __inline void write_file(const bool cover, const char * const buff, const char * const filename);
+
+void release_buff(char ** const buff, const int valid_item_num)
+
+
+/*
+ * void lowValue(LGraph G, int vs, int des, int prev[], int dist[]);
+ * 相邻顶点低值扩散求最短路径。
+ * 即，统计图(G)中"顶点vs"到其它各个顶点的最短路径。
+ *
+ *  对邻顶点低值扩散方法进行互斥处理，即解决去环问题
+ * 参数说明：
+ *        G -- 图
+ *       vs -- 起始顶点(start vertex)。即计算"顶点vs"到其它顶点的最短路径。
+ *     prev -- 前驱顶点数组。即，prev[i]的值是"顶点vs"到"顶点i"的最短路径所经历的全部顶点中，位于"顶点i"之前的那个顶点。
+ *     dist -- 长度数组。即，dist[i]是"顶点vs"到"顶点i"的最短路径的长度。
+ */
+bool testLV(LGraph G, int vs, int des, int prev[], int dist[]);
+
+
+
+
+/*
+ * void lowValue(LGraph G, int vs, int des, int prev[], int dist[]);
+ * 相邻顶点低值扩散求最短路径。
+ * 即，统计图(G)中"顶点vs"到其它各个顶点的最短路径。
+ *
+ *  对邻顶点低值扩散方法进行互斥处理，即解决去环问题
+ * 参数说明：
+ *        G -- 图
+ *       vs -- 起始顶点(start vertex)。即计算"顶点vs"到其它顶点的最短路径。
+ *     prev -- 前驱顶点数组。即，prev[i]的值是"顶点vs"到"顶点i"的最短路径所经历的全部顶点中，位于"顶点i"之前的那个顶点。
+ *     dist -- 长度数组。即，dist[i]是"顶点vs"到"顶点i"的最短路径的长度。
+ */
+bool testLV(LGraph G, int vs, int des, int prev[], int dist[])
+{
+    //int dist[MAX];
+    int headArc[MAXE];
+
+    // 相邻顶点低值扩散
+    for (int i = 0; i < G.vexnum; ++i) // 初始化, 除起始点vs外 ,其余节点的长度均INF
+    {
+        dist[i] = INF;
+        headArc[i] = -1;
+    }
+    dist[vs] = 0;
+
+    int changeNum;  // 记录本此循环内标志数改变次数
+    do  // 低值扩散
+    {
+        changeNum = 0;
+        for (int i = 0; i < G.vexnum; ++i) // 对所有点执行邻接点低值传递过程
+        {
+            int B;
+            int D;
+
+            for (int j = 0; j < G.vexs[i].NearArcNum && flagG[G.vexs[i].NearArcNo[j]] == 0; ++j)
+            {
+                //printf("%d\t",G.vexs[i].NearArcNo[j]);
+                B = G.vexs[i].NearArcNo[j];  // 点i通过第j邻弧关联的节点
+                D = dist[i] + get_weight(G, i, G.vexs[i].NearArcNo[j]);
+                D = (D < 0 ? INF : D);            // 防止溢出
+
+                if (dist[B] > D)
+                {
+                    dist[B] = D;
+                    headArc[B] = get_EID(G, i, G.vexs[i].NearArcNo[j]);
+                    //printf("%d\t%d\n",dist[B], headArc[B]);
+                    changeNum += 1;
+                }
+            }
+        }        
+    }while (changeNum != 0);
+
+    //printf("%d\t%d\n", INF, dist[des]);
+    if (INF == dist[des])
+    {
+        return false;
+    }
+    
+    addEG += dist[des];    //路径权重累加
+
+    // 路径回溯追踪
+    int path[MAX];  // 用path记录路径
+    int startPt;
+    for (int i = 0; i < G.vexnum; ++i)  // 初始化
+    {
+        path[i] = -1;
+    }
+    path[0] = headArc[des];
+
+    int ptNum = 0;  // 用于记录回溯路径的数目
+    int startArc = headArc[des];
+
+    startPt = des;
+    for (int i = 0; i < G.vexnum; ++i)  // 回溯追踪
+    {        
+        startPt = get_position(G, gEdges[startArc].start);     // 当前弧段strartArc的弧尾顶点
+        flagG[startPt] = 1;
+        ++ptNum;
+        if (startPt == vs)  // 若到达起始点P,终止
+        {
+            //printf("%d\%dt", startPt, i);
+            break;
+        }
+        startArc = headArc[startPt];
+        //printf("%d\t%d\n", startArc, startPt);
+        path[i + 1] = startArc;
+    }
+    //printf("\n");
+
+    //路径的辅助储存
+    for (int mm = (ptNum - 1); mm >= 0; --mm)
+    {
+        resultL[resNumL + (ptNum - 1) - mm] = path[mm];
+    }
+    resNumL += ptNum;   //记录最终结果路径的数目
+
+    /*/ 测试最终优化路径 (打印lowValue求得最短路径的结果)
+    printf("\n***Testing Finally Result Path***\n");
+    printf("shortest(%d, %d)=%d\n", gVexs[vs], gVexs[des], dist[des]);
+    printf("\n%d\n", ptNum);
+    for (int i = ptNum - 1; i >= 0; --i)
+    {
+        printf("%d|", path[i]);
+    }
+    printf("\n");*/
+
+    return true;
+}
